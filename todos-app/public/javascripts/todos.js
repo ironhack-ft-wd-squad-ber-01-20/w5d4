@@ -1,4 +1,5 @@
 const toggleTodo = (id, status) => {
+  console.log(id, status);
   axios
     .patch(`http://localhost:8000/todos/${id}`, { completed: status })
     .then(response => {
