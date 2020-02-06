@@ -1,0 +1,181 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "build the todo app",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "title": "get mate",
+      "completed": true
+    },
+    {
+      "title": "pet the dog",
+      "completed": true,
+      "id": 441332334
+    },
+    {
+      "title": "get candies",
+      "completed": true,
+      "id": 441332335
+    },
+    {
+      "title": "hi",
+      "completed": false,
+      "id": 441332336
+    },
+    {
+      "title": "cocopuff daddy",
+      "completed": false,
+      "id": 441332337
+    },
+    {
+      "title": "foo",
+      "completed": false,
+      "id": 441332338
+    },
+    {
+      "title": "cocopuff daddy",
+      "completed": false,
+      "id": 441332339
+    },
+    {
+      "title": "clone lab",
+      "completed": false,
+      "id": 441332340
+    },
+    {
+      "title": "get a stegosaurus",
+      "completed": true,
+      "id": 441332341
+    },
+    {
+      "title": "clone lab",
+      "completed": false,
+      "id": 441332342
+    },
+    {
+      "title": "get a stegosaurus",
+      "completed": true,
+      "id": 441332343
+    },
+    {
+      "title": "foobar",
+      "completed": false,
+      "id": 441332344
+    },
+    {
+      "title": "new todo (serious todo)",
+      "completed": false,
+      "id": 441332345
+    },
+    {
+      "title": "oj",
+      "completed": false,
+      "id": 441332346
+    },
+    {
+      "title": "baz",
+      "completed": false,
+      "id": 441332347
+    },
+    {
+      "title": "ojwqeq",
+      "completed": false,
+      "id": 441332348
+    },
+    {
+      "title": "bar",
+      "completed": false,
+      "id": 441332349
+    },
+    {
+      "title": "alal",
+      "completed": false,
+      "id": 441332350
+    },
+    {
+      "title": "amazing",
+      "completed": false,
+      "id": 441332351
+    },
+    {
+      "title": "amazing",
+      "completed": false,
+      "id": 441332352
+    },
+    {
+      "title": "test test",
+      "completed": false,
+      "id": 441332353
+    },
+    {
+      "title": "johnny",
+      "completed": false,
+      "id": 441332354
+    },
+    {
+      "title": "johnny",
+      "completed": false,
+      "id": 441332355
+    },
+    {
+      "title": "test test test",
+      "completed": false,
+      "id": 441332356
+    },
+    {
+      "title": "hello",
+      "completed": false,
+      "id": 441332357
+    },
+    {
+      "title": "one more thing",
+      "completed": false,
+      "id": 441332358
+    },
+    {
+      "title": "one more thing",
+      "completed": false,
+      "id": 441332359
+    },
+    {
+      "title": "reset",
+      "completed": false,
+      "id": 441332360
+    },
+    {
+      "title": "no more",
+      "completed": false,
+      "id": 441332361
+    },
+    {
+      "title": "🐱‍👤",
+      "completed": false,
+      "id": 441332362
+    },
+    {
+      "title": "too many things",
+      "completed": false,
+      "id": 441332363
+    },
+    {
+      "title": "Buy Ferrari",
+      "completed": false,
+      "id": 441332364
+    },
+    {
+      "title": "",
+      "completed": false,
+      "id": 441332365
+    }
+  ],
+  "characters": [
+    {
+      "id": 1,
+      "name": "Dwight Schrute",
+      "role": "Assistant Regional Manager"
+    }
+  ]
+}
